@@ -92,6 +92,34 @@
             }
           },
           {
+            "id": "3523e03c50f820cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/TEST-GIT1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEST-GIT1"
+            }
+          },
+          {
+            "id": "7324155b614403af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 Inbox/TEST-GIT2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEST-GIT2"
+            }
+          },
+          {
             "id": "3e9fd0d72801d0ab",
             "type": "leaf",
             "state": {
@@ -106,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -178,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Resources/Notetaking/PARA.md",
+                "file": "0 Inbox/TEST-GIT2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +216,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PARA"
+              "title": "Backlinks for TEST-GIT2"
             }
           },
           {
@@ -197,12 +225,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 Resources/Notetaking/PARA.md",
+                "file": "0 Inbox/TEST-GIT2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PARA"
+              "title": "Outgoing links from TEST-GIT2"
             }
           },
           {
@@ -224,10 +252,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 Resources/Notetaking/PARA.md"
+                "file": "0 Inbox/TEST-GIT2.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of PARA"
+              "title": "Outline of TEST-GIT2"
             }
           }
         ]
@@ -244,11 +272,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "132f8a9c6ca4bec4",
+  "active": "7324155b614403af",
   "lastOpenFiles": [
+    "0 Inbox/TEST-GIT1.md",
+    "0 Inbox/TEST-GIT2.md",
+    "3 Resources/Notetaking/PARA.md",
     "3 Resources/Filmmaking/Motion Blur.md",
     "3 Resources/Filmmaking/Filmmaking.md",
     "2 Areas/Tech blog/Article - New AG for Containers in Azure.md",
@@ -263,7 +296,6 @@
     "0 Inbox/Git Test.md",
     "0 Inbox/Closing Off.md",
     "0 Inbox/Check.md",
-    "3 Resources/Notetaking/PARA.md",
     "3 Resources/Notetaking",
     "3 Resources/Untitled.md",
     "4 Archive/My test note.md",
